@@ -5,3 +5,4 @@
 4-go to talend next components
 5-browse the file 
 6-apply and close
+7-you will find it in the palette ESB/REST
